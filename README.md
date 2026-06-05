@@ -4,8 +4,8 @@ Repositori ini berisi kumpulan materi, tugas, dan implementasi program dari Prak
 
 ## Asisten Praktikum
 
-1. Alvian Damar Budhi Hernowo - Sains Data 24 - [Github](https://github.com/deskafimcode)
-2. Faadhilah Hana Gustie Fatimah - Informatika 24 - [Github](https://github.com/Gerhana0)
+1. Theodisius Rexy Mahardika - Sains Data 24 - 
+2. Zaki Elias AL Haqqani Kudus - Sains Data 24 - 
 
 ## Kontrak Praktikum
 

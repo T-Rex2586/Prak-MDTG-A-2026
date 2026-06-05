@@ -1,0 +1,12 @@
+[project]
+name = "prak-mdtg-b-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "networkx>=3.6.1",
+    "pydot>=4.0.1",
+]
